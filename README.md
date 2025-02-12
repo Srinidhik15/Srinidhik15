@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Srinidhik15/Srinidhik15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a passionate Data Scientist. I love turning data into actionable insights and building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+🔭 I'm currently working on
+Large Language Models and their applications
+Personal projects involving NLP and generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Skills
+Languages: Python,R, SQL
+Frameworks: Flask, FastAPI
+ML/AI: TensorFlow, scikit-learn, PyTorch
+Data: Pandas, NumPy
+Cloud: AWS
+DevOps: Docker, CI/CD
+
+📫 How to reach me
+LinkedIn: [Takudzwa Makusha](https://www.linkedin.com/in/sri-nidhi-kankanala-219884203/)
+
+💬 Ask me about
+Data Science
+Machine Learning
+Generative AI 
