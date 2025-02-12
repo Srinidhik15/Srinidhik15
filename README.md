@@ -30,6 +30,6 @@ DevOps: Docker, CI/CD
 LinkedIn: https://www.linkedin.com/in/sri-nidhi-kankanala-219884203/
 
 **💬 Ask me about**
-Data Science
-Machine Learning
+Data Science,
+Machine Learning,
 Generative AI 
