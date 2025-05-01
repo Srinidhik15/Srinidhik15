@@ -27,7 +27,7 @@ DevOps: Docker, CI/CD
 
 **📫 How to reach me**
 
-LinkedIn: https://www.linkedin.com/in/sri-nidhi-kankanala-219884203/
+LinkedIn: https://www.linkedin.com/in/sri-nidhik/
 
 **💬 Ask me about**
 Data Science,
